@@ -59,3 +59,4 @@ class TestBaconComOvos(unittest.TestCase):
                 self.assertEqual(bacon_com_ovos(entrada),
                                  saida,
                                  msg=f'"{entrada}" não retornou "{saida}"')
+
